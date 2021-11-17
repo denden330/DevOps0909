@@ -52,7 +52,6 @@ chrome_options.add_argument("--disable-extensions")
 browser = selenium.webdriver.Chrome(chrome_options=chrome_options)
 
 
-#create a conflict
-
-print("conflict")
+# create a conflict
+print("conflict here!")
 
